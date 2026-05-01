@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a computer science student currently trying to renovate my github! In the future I hope to upload small projects here to practice development.
+Currently interested in Posit format!
+
+
+    
+Shoutout to Julia
 <!--
 **callen-blip/callen-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
